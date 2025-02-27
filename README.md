@@ -24,8 +24,8 @@ This repository provides a script to automate interaction with Ethereum-based sm
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/auto-daily-monad.git
-   cd auto-daily-monad
+   git clone https://github.com/ganjmsoke/daily-monad.git
+   cd daily-monad
    ```
 
 2. **Install Dependencies**
